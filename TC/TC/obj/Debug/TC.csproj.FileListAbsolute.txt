@@ -1,0 +1,10 @@
+C:\Users\杏仁白\source\repos\TC\TC\bin\Debug\TC.exe.config
+C:\Users\杏仁白\source\repos\TC\TC\bin\Debug\TC.exe
+C:\Users\杏仁白\source\repos\TC\TC\bin\Debug\TC.pdb
+C:\Users\杏仁白\source\repos\TC\TC\obj\Debug\TC.csprojAssemblyReference.cache
+C:\Users\杏仁白\source\repos\TC\TC\obj\Debug\TC.Form1.resources
+C:\Users\杏仁白\source\repos\TC\TC\obj\Debug\TC.Properties.Resources.resources
+C:\Users\杏仁白\source\repos\TC\TC\obj\Debug\TC.csproj.GenerateResource.cache
+C:\Users\杏仁白\source\repos\TC\TC\obj\Debug\TC.csproj.CoreCompileInputs.cache
+C:\Users\杏仁白\source\repos\TC\TC\obj\Debug\TC.exe
+C:\Users\杏仁白\source\repos\TC\TC\obj\Debug\TC.pdb
